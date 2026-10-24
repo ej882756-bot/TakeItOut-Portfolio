@@ -26,7 +26,8 @@ C# 코드는 ChatGPT를 활용해 생성·수정했으며, Unity에서 적용 �
 
 인물과의 대화에서 선택지를 제공하며, 선택에 따라 호감도가 달라지도록 구성했습니다.
 
-<img width="965" height="540" alt="5" src="https://github.com/user-attachments/assets/1c714c50-b70d-4a31-8461-f48dfda8f92a" />
+<img width="965" height="540" alt="5" src="https://github.com/user-attachments/assets/f10fa81e-266d-40d8-a719-4c4724d37c3c" />
+
 
 ### 2. 정보 수집 및 단서 조합
 
@@ -34,11 +35,13 @@ C# 코드는 ChatGPT를 활용해 생성·수정했으며, Unity에서 적용 �
 
 정보 획득
 
-<img width="968" height="545" alt="1" src="https://github.com/user-attachments/assets/04fb98e0-6e3f-4bd9-b19e-78f170400953" />
+<img width="968" height="545" alt="1" src="https://github.com/user-attachments/assets/43af48ca-ecb8-4208-84bd-087c871a95e2" />
+
 
 두 정보를 선택해 조합
 
-<img width="974" height="546" alt="7" src="https://github.com/user-attachments/assets/f1c0ab2e-5270-455f-bb46-0e52d6006d8f" />
+<img width="974" height="546" alt="7" src="https://github.com/user-attachments/assets/d4d64f25-8f33-411a-95af-051866d2cb95" />
+
 
 ## 현재 제작 상태
 
